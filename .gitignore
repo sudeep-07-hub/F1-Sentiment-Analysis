@@ -1,2 +1,6 @@
-*/f1_cache
-*/raw
+.env
+data/raw/
+data/f1_cache/
+__pycache__/
+*.sqlite
+.DS_Store
